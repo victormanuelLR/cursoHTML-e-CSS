@@ -1,3 +1,6 @@
 Tem que abilitar no githubPages para hospedar sites
 
 dá pra gerar um qr code
+
+
+Da para clonar um repositório no github caso seja necessário trabalhar no projeto em outro local

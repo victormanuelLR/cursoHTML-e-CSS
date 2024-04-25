@@ -11,7 +11,7 @@ estrutura geral:
 <audio preload"matadata(recomendado)" controls>
 	<source src='' type='audio/mpeg'>  
 formatos que podem ser usados:
-mp3, ogg, wav(não recomendado para rosteamento
+mp3, ogg, wav(não recomendado para rosteamento)
 
 videos
 sites recomendados:
