@@ -54,6 +54,7 @@ header > p {
     max-width: 500px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.412);
     margin: auto;
+    padding-bottom: 15px;
 }
 
 nav  {
@@ -145,9 +146,9 @@ text-decoration: underline
 }
 
 .video {
-    padding: 20px;
+    padding: 10px;
     background-color: var(--cor5);
-    margin: 1px -15.5px 1px -15px;
+    margin: 1vw -1vw 1vw -1vw;
     padding-bottom: 55.9%;
     position: relative;
 }

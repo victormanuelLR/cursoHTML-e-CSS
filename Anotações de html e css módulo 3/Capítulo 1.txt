@@ -1,1 +1,3 @@
 Tem que abilitar no githubPages para hospedar sites
+
+dá pra gerar um qr code
