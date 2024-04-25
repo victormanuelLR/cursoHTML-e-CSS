@@ -1,0 +1,33 @@
+
+body {
+    background-image: linear-gradient(90deg,rgba(184, 235, 230, 1) 47%, #EBBEB7);
+    background-attachment: fixed;
+
+}
+main {
+    display: flex;
+    margin: auto;
+    background-color: rgba(235, 190, 183, 1);;
+    padding: 1.5em;
+    color: rgba(107, 63, 56, 1);
+    width: 8em ; 
+    word-wrap: break-word;
+    justify-content: center;
+}
+h1 {
+    font-size: 150%;
+}
+p {
+    font-size: 100%;
+}
+
+.conteudo{
+   text-align: center;
+}
+.quadrado {
+    color: #386B66;
+    padding: 3em;
+    background-color:   rgba(184, 235, 230, 1);
+    border: none;
+}
+

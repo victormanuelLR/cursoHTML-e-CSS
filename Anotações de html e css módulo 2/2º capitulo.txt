@@ -1,0 +1,44 @@
+Fontes
+
+Existem alguns tipos de fontes:
+as serifadas 'serif'
+as não serifadas 'sans serif'
+as monoespaçadas; essas podendo serem ou não monoespaçadas
+as handwriting; procuram emular a escrita
+as display; O resto
+
+Tem também as familias das fontes que vc escolhe a fonte principal e outras do mesmo estilo caso a fonte seja incompativel.
+
+Para saber certinho da pra usar o site da w3s
+
+Medidas absolutas:
+cm, mm, in, px, pt, pc
+
+Medidas relativas
+
+em, ex, rem, vw, vh, %
+
+Uma shorthand font
+
+O atributo font condensa as configurações da fonte em uma unica linha.
+
+Ordem:
+font-style -> font-weight -> font-size - > font-family
+
+no src do import tem que colocar o format()
+
+format types:
+- opentipe (otf)
+- truetype (ttf)
+- embeled-opentype
+- truetype-aat (Apple Advanced Typography)
+- svg
+
+detectar fontes em imagens
+
+whatfontis
+fontsquirrel
+myfonts.com
+
+Dá pra fazer identação com css
+text-indent

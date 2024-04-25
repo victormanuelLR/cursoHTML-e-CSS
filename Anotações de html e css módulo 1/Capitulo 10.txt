@@ -1,0 +1,10 @@
+Links
+tag <a>
+
+Links externos : importante que sejam destacados com rel='external', rel='author' po rel='nofollow'
+Links Internos : importamte que sejam marcados com rel='next' ou rel='prev'
+além de serem definidos como target='_self"
+
+Downloads:
+precisa ser atribuido em <a> o atributo download='Nome do arquivo', junto com o type='tipo a ser exportado'
+lista dos tipos de  'type': IANA.org

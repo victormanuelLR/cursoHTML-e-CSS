@@ -1,0 +1,12 @@
+3° capitulo
+
+simbologias em css
+
+# = id
+. = class
+: = psceudo-class
+:: = psceudo-element
+
+Os psceudos class são classes que indicam um determinado estado do elemento principal
+
+Os psceudos elements são classes que permitem escrever nos elementos das tags html usando css, por isso psceudos.

@@ -1,0 +1,14 @@
+sites de direito de imagem com uso livre:
+unsplash;
+pexels;
+
+Diferença de imagem JPEG e PNG:
+JPEG - Uma imagem mais leve, compactada.
+
+PNG - Uma imagem que se utiliza quando precisar-se de transparência e com uma maior qualidade.
+
+É possivel adicionar uma imagem no site por meio da imagem já presente no arquivo, no subarquivo e por meio de URL.
+
+archive.io
+favicon.cc
+favicon,io  

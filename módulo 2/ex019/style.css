@@ -1,0 +1,65 @@
+@charset "UTF-8";
+h1 {
+    text-align: center;
+}
+p {
+    text-indent: 5%;
+    text-align: justify;
+}
+div {
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    border-radius: 15px;
+    padding: 2%;
+    margin: 3%;
+}
+.youtube > h2 {
+    color: #ffffff;
+    background: #FF0000;
+    margin-right: 83%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+
+.youtube > a {
+    color: #FF0000;
+    text-decoration-line: none;
+}
+.youtube > a:hover {
+    text-decoration-line: underline;
+}
+
+
+
+.reddit > h2 {
+    color: #ffffff;
+    background: #ec6331;
+    margin-right: 83%;
+    padding: 10px;
+    border-radius: 10px;
+}
+.reddit > a {
+    color: #ec6331;
+    text-decoration-line: none;
+}
+
+.reddit > a:hover {
+    text-decoration-line: underline;
+}
+.whatsapp > h2{
+    color: #ffffff;
+    background: #25D366;
+    margin-right: 83%;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.whatsapp > a {
+    color: #25D366;
+    text-decoration-line: none;
+}
+.whatsapp > a:hover {
+    text-decoration-line: underline;
+}
+

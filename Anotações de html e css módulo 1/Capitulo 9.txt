@@ -1,0 +1,15 @@
+Listas ordenadas
+<ol> 
+<li></li add: opcional>
+</ol>
+type='' modificar o tipo
+start='' modificar o começo
+Listas não ordenadas
+<ul></ul>
+type='circle','square','disc'
+Listas de definição
+<dl>
+<dt></dt>
+<dd></dd>
+
+</dl>

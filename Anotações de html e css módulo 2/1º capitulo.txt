@@ -1,0 +1,12 @@
+auxiliar na escolha de cores armônicas:
+ https://color.adobe.com/pt/)
+ paletton.com
+ coolors
+
+Para criar um gradiente basta usar a função linear-gradient(90deg, cor1, cor2, ...)
+em uma propriedade de imagem. Ex background-image
+deg = graus
+
+tambem tem o radia-gradient que usa em vez do deg, apenas circle. Sendo bem claro no que faz
+
+* {} configurações globais da css

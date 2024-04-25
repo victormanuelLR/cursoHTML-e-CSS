@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+.fonte-esquerda {
+    text-align: left;
+}
+.fonte-direita {
+    text-align: right;
+}
+.fonte-centro {
+    text-align: center;
+}
+.fonte-justificada {
+    text-align: justify;
+}

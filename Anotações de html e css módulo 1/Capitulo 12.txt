@@ -1,0 +1,8 @@
+CCS inline style: +forte
+	É a pior forma e a mais limitada, só deve ser usada em coisas muito especificas
+CSS internal style: mediano
+	É recomendada que só use em ocasiões que irá modificar apenas uma página e que sejam poucas alterações
+CSS external style: +fraco
+	É a melhor de todas, sendo usada em todas as demais ocasiões
+Pode se usar mais de um link css
+E também pode misturar todas essas três formas nos seus arquivos

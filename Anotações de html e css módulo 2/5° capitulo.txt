@@ -1,0 +1,17 @@
+MockFlow
+
+Dá pra fazer variaveis em css
+root {
+	--variavel: informação;
+}
+
+responsividade:
+max e min width
+
+da pra fazer um trasition duration
+
+para colocar emoji com css vc copia o codigo após o U+ e o escreve depos de uma \, se quiser dá para colocar espaços '\00a0\00a0'.
+
+da pra fazer isso em listas usando list-style ou por meio dos psceudos elementos.
+
+pra colocar os 'pontos' dentro do aside use list-style-position: internal; 

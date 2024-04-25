@@ -1,0 +1,16 @@
+tag <Address> = endereço
+ctrl shift p
+
+strong = Destaque
+em = 'italico'
+ins = txt inserido
+del = txt deletado
+mark = txt marcado
+sup = ²
+sub = subescrito
+pre = Pré-formatação
+code = semântica de código
+q = citação simples 
+blockquote = citação completa ; cite = onde foi tirado ex: <blockquote>sou advogado me formei na unicu<blockquote> cite='www.unicu.edu'
+abbr = para aparecer um textinho quando coloca o mouse em baixo
+bdo = a mais util

@@ -1,0 +1,12 @@
+Capitulo 4
+
+box-level:
+	sempre se forma em uma linha nova, prenche a tela interira
+
+inline-level:
+	deve ser o contrário
+
+
+as shorthand funcionam no sentido horario top->ritght->bottom->left
+
+tem como fazer bordas decoradas: border-image

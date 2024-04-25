@@ -1,0 +1,8 @@
+COMENTÁRIO EM HTML: <!---->
+tags de texto:
+<p></p>; cria um paragrafo
+<br>; permite a quebra de texto
+<h1>; cria titulo
+
+Emoji:
+&#x / e o código (usa o emojipidea que é mais fácil)

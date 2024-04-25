@@ -1,0 +1,13 @@
+HTML - É uma linguagem fócada em conteúdo
+
+conteúdo : textos, imagems, vídeos, aúdios, tabelas.
+
+CSS - design
+
+design : cores, sombras, tamanhos, posicionamento.
+
+css tem declaração, propriedade e valor
+
+JS - interação
+
+interação : menus, popups, animações, validações 
