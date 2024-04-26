@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: black;
+    background-image: url(Imagens/espaco.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+
+#astronauta {
+    width: 250px;
+    height: 250px;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: url(Imagens/astronauta.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
