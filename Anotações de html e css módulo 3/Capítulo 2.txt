@@ -1,0 +1,5 @@
+shorhand - background: color > image > position > repeat > attachement > position > size
+
+TODO POSICIONAMENTO DE UM BOX JÁ É POR PADRÃO RELATIVO
+
+já o absolute ele está relativo a box que ele está dentro

@@ -1,0 +1,24 @@
+Imagens dinâmicas 
+use a tag picture e source para que as imagens do seu site se adaptem a cada usuário.
+estrutura geral:
+<picture>
+	<source media='(max-width: ) srcset='' type='image/''>
+	<source media='(max-width: ) srcset='' type='image/''>
+	<img src='' alt=''>
+</picture>
+
+Áudios
+<audio preload"matadata(recomendado)" controls>
+	<source src='' type='audio/mpeg'>  
+formatos que podem ser usados:
+mp3, ogg, wav(não recomendado para rosteamento)
+
+videos
+sites recomendados:
+pexels
+
+formatos mais suportados e usados:
+mp4, mp4v, webn, ogv
+Ospedagem interna é muito cara
+tags diferentes :
+<poster> É a thumb do video
