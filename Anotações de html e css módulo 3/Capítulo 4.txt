@@ -1,0 +1,46 @@
+Não pode usar tabela pra fazer site
+
+hierarquia de tabela simples
+table = tabela
+
+table row = linha de tabela
+table header = cabeçalho de tabela
+table data =  dado de tabela
+
+border-colapse serve para modificar a forma que as tabuletas se distanciam
+
+</td> e </tr> não são obrigatórios
+
+se a hierarquia estiver errada os dados vão aparecer antes ou depois da tabelas
+
+da pra usar o * para multiplicar tags
+
+dá para alinhar também em cima ou embaixo usando vertical-align
+
+Anatomia para tabelas grandes
+caption
+thead
+tbody
+tfoot
+
+th é o que vais ser referenciado
+td o que referencia
+ex: <th>estado > <td>são paulo
+
+
+para dizer que th se referencia a determinada coluna usa scope='col'
+
+uma pseudo class interessante:
+nth-child(2n:"O n representa sequência dá pra usar tmb ood que é ímpar ou even que é par")
+
+
+como criar um cabeçario fixo
+thead > tr > th {
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
+
+lembrando que o position do table tem que ser o relative(padrão)
+
+sempre que colocar th tem que ter scoupe

@@ -1,0 +1,1 @@
+<pre> dá pra alterar a propriedade white space: white-space para whitespace:pre-line
