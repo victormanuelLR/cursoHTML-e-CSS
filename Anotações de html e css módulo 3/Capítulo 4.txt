@@ -44,3 +44,5 @@ thead > tr > th {
 lembrando que o position do table tem que ser o relative(padrão)
 
 sempre que colocar th tem que ter scoupe
+
+Para selecionar uma coluna existe a tag colgroup e sua child col que devem ser colocadas no table existe o span para ordenar em mais ou menos colunas
